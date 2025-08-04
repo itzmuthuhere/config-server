@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to MrxBank accounts related local APIs "
+  contactDetails:
+    name: "Muthu raja - Developer"
+    email: "rajamuthu107@gmail.com"
+  onCallSupport:
+    - (556) 155-1234
+    - (556) 323-1345

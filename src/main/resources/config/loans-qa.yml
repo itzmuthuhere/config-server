@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to mrxBank loans related QA APIs "
+  contactDetails:
+    name: "Muthuraja - QA Lead"
+    email: "rajamuthu107@gmail.com"
+  onCallSupport:
+    - (785) 545-6565
+    - (853) 546-3467
